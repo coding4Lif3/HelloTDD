@@ -75,3 +75,6 @@ fabric.properties
 /.idea/jarRepositories.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+
+# Ignoring Maven target output
+/target/
