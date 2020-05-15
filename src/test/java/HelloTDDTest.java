@@ -5,7 +5,7 @@ public class HelloTDDTest {
 
     @Test
     public void sayHelloWithNameTest() {
-        Assert.assertEquals("Hello Fede", HelloTDD.sayHelloWithName("Fede"));
+        Assert.assertEquals("Hello Fede", HelloTDD.sayHelloWithName("Fedes"));
     }
 
 }
